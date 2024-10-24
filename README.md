@@ -44,7 +44,7 @@ A powerful multimedia search engine that uses ChromaDB for vector storage and CL
 
 1. Clone the repository:
 ```bash
-git clone [[your-repo-url]](https://github.com/abojotemi/Advanced-Image-and-Data-Retrieval-System-Using-ChromaDB.git)
+git clone https://github.com/abojotemi/Advanced-Image-and-Data-Retrieval-System-Using-ChromaDB.git
 cd Advanced-Image-and-Data-Retrieval-System-Using-ChromaDB
 
 ```
